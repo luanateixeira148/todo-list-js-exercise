@@ -23,6 +23,7 @@ function logTaskState(taskIndex) {
 
 // DRIVER CODE BELOW
 
+
 newTask("Clean Cat Litter"); // task 0
 newTask("Do Laundry"); // task 1
 
